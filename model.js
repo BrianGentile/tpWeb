@@ -1,5 +1,5 @@
 function Drawing(){
-    this.Shapes = new Array()
+    this.Shapes = new Map()
 }
 
 
